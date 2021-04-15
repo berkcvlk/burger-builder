@@ -4,10 +4,10 @@ import Menu from "./components/Menu/Menu";
 
 function App() {
   return (
-    <div className="App">
-      <Burger />
-      <Menu />
-    </div>
+      <div className="App">
+        <Burger />
+        <Menu />
+      </div>
   );
 }
 
